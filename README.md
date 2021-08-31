@@ -26,23 +26,32 @@ A collection of awesome development telegram channels and groups. Like programme
 - [Fayas Noushad](https://telegram.me/FayasNoushad)
 - [MeG Bots](https://telegram.dog/MeGBots)
 - [EK BOTZ PROJECT](https://telegram.me/EKBOTZ_UPDATE)
+
 - [BOTS UNIVERSE](https://telegram.me/Bots_universe) <br>
        >>>>[website](https://www.springreen.ga)     
        
 - [Heiman Developer](https://telegram.dog/HeimanSupports/)
+
+- [BOTS UNIVERSE](https://telegram.me/Bots_universe)
+- [Heiman Developer](https://telegram.dog/HeimanSupports)
+
 
 ## Tech Support 
 
 - [Developer Team](https://telegram.me/TheDeveloperTeam)
 - [EK BOTZ TALKS](https://telegram.me/ekbotz_support)
 
+
 - [BOTS UNIVERSE SUPPORT](https://telegram.me/venilabots1)
 
 - [Heiman Support](https://telegram.dog/HeimanSupport/)
 
+- [BOTS UNIVERSE SUPPORT](https://telegram.me/venilabots1)
+- [Heiman Support](https://telegram.dog/HeimanSupport)
+
+
 
 ## Framework Support
-
 
 - [Pyrogram](https://telegram.me/Pyrogram), [Pyrogram Support](https://telegram.me/PyrogramChat)
 - [Python Telegram Bot](https://telegram.me/pythontelegrambotchannel), [Python Telegram Bot Support](https://telegram.me/pythontelegrambotgroup)
