@@ -6,6 +6,8 @@ A collection of awesome development telegram channels and groups. Like programme
 
 ## Updates
 
+### Official
+
 - [Telegram English](https://telegram.me/Telegram)
 - [Telegram Arabic](https://telegram.me/TelegramArabia)
 - [Telegram German](https://telegram.me/TelegramDE)
@@ -15,6 +17,10 @@ A collection of awesome development telegram channels and groups. Like programme
 - [Telegram Brazil](https://telegram.me/TelegramBR)
 - [Telegram Indonesia](https://telegram.me/Telegramindonesia)
 
+### Unofficial
+
+- [Plus Messenger English](https://telegram.me/plusmsgrchat)
+
 ## Bot Development 
 
 - [Fayas Noushad](https://telegram.me/FayasNoushad)
@@ -22,12 +28,18 @@ A collection of awesome development telegram channels and groups. Like programme
 - [EK BOTZ PROJECT](https://telegram.me/EKBOTZ_UPDATE)
 - [BOTS UNIVERSE](https://telegram.me/Bots_universe) <br>
        >>>>[website](https://www.springreen.ga)     
+       
+- [Heiman Developer](https://telegram.dog/HeimanSupports/)
 
 ## Tech Support 
 
 - [Developer Team](https://telegram.me/TheDeveloperTeam)
 - [EK BOTZ TALKS](https://telegram.me/ekbotz_support)
+
 - [BOTS UNIVERSE SUPPORT](https://telegram.me/venilabots1)
+
+- [Heiman Support](https://telegram.dog/HeimanSupport/)
+
 
 ## Framework Support
 
